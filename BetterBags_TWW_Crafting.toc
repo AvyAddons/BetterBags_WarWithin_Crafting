@@ -1,0 +1,28 @@
+## Interface: 110000, 110002
+
+## Title: BetterBags - TWW Crafting
+## Notes: Filter for common War Within Crafting items in BetterBags.
+## Author: Avyiel
+## Version: @project-version@
+## X-Date: @project-date-iso@
+## IconTexture: Interface\Icons\inv_misc_bag_05
+
+## DefaultState: Enabled
+## Dependencies: BetterBags
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
+## X-Date: @project-date-iso@
+## X-Category: Bags & Inventory
+## X-License: MIT
+
+## X-Curse-Project-ID: 1088531
+## X-Wago-ID: bGoMPo60
+
+db.lua
+main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
