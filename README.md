@@ -5,7 +5,18 @@
 
 Currently, this addon supports:
 
-- Nothing
+- Alchemy
+- Cloth
+- Cooking
+- Enchanting
+- Herbs & Seeds
+- Inscription
+- Jewelcrafting
+- Leatherworking
+- Mining
+- Engineering
+- Meta Materials
+- Reagents
 
 This is a plugin only! You can get the base bag addon over at [Cidan/BetterBags](https://github.com/Cidan/BetterBags) or [CurseForge](https://www.curseforge.com/wow/addons/better-bags).
 
