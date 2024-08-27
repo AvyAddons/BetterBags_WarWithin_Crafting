@@ -174,7 +174,6 @@ addon.db = {
 		222104, -- Spiked Sea Raven
 		222541, -- Spiked Sea Raven
 		220390, -- Surface Olive
-		222698, -- Surface Olive
 		222258, -- Surface Olive
 		222695, -- Twined Herbs
 		220387, -- Twined Herbs
@@ -200,7 +199,6 @@ addon.db = {
 		220144, -- Roaring Anglerseeker
 		225568, -- Slum Shark Scrap
 		220141, -- Specular Rainbowfish
-		222746, -- Tasty Pocket Tart
 		225566, -- Warped Wing
 		220139, -- Whispering Stargazer
 		220153, -- Awoken Coelacanth
