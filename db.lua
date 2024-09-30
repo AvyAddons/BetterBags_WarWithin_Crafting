@@ -224,6 +224,7 @@ addon.db = {
 	},
 	["Engineering"] = {
 		219150, -- Pile of Rusted Scrap
+		228414, -- Frayed Wiring
 		221865, -- Chaos Circuit
 		221866, -- Chaos Circuit
 		221867, -- Chaos Circuit
