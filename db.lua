@@ -4,7 +4,7 @@ local addon = select(2, ...)
 -- Database
 -----------------------------------------------------------
 addon.db = {
-	["Alchemy"] = {
+	["Alchemy - TWW"] = {
 		211806, -- Gilded Vial
 		211807, -- Gilded Vial
 		211808, -- Gilded Vial
@@ -16,7 +16,7 @@ addon.db = {
 		210815, -- Coreway Catalyst
 		210828, -- Dilution Solution
 	},
-	["Blacksmithing"] = {
+	["Blacksmithing - TWW"] = {
 		226202, -- Echoing Flux
 		221983, -- Core Alloy
 		221984, -- Core Alloy
@@ -56,7 +56,7 @@ addon.db = {
 		222424, -- Sanctified Alloy
 		222425, -- Sanctified Alloy
 	},
-	["Cloth"] = {
+	["Cloth - TWW"] = {
 		228930, -- Adorning Ribbon
 		225570, -- Algari Fowlfeather
 		222795, -- Spool of Weaverthread
@@ -103,7 +103,7 @@ addon.db = {
 		222799, -- Duskweave Bolt
 		222800, -- Duskweave Bolt
 	},
-	["Cooking"] = {
+	["Cooking  - TWW"] = {
 		222531, -- Arathor Hammerfish
 		222094, -- Arathor Hammerfish
 		222532, -- Azj-Kahet Slum Shark
@@ -211,7 +211,7 @@ addon.db = {
 		220150, -- Spiked Sea Raven
 		228721, -- Hearty Feast
 	},
-	["Enchanting"] = {
+	["Enchanting - TWW"] = {
 		219946, -- Storm Dust
 		219947, -- Storm Dust
 		219948, -- Storm Dust
@@ -222,7 +222,7 @@ addon.db = {
 		219954, -- Refulgent Crystal
 		219955, -- Refulgent Crystal
 	},
-	["Engineering"] = {
+	["Engineering - TWW"] = {
 		219150, -- Pile of Rusted Scrap
 		228414, -- Frayed Wiring
 		221865, -- Chaos Circuit
@@ -250,7 +250,7 @@ addon.db = {
 		227773, -- Pummel-Proof Plating
 		227774, -- Pummel Permit
 	},
-	["Herbs"] = {
+	["Herbs - TWW"] = {
 		210796, -- Mycobloom
 		210797, -- Mycobloom
 		210798, -- Mycobloom
@@ -276,7 +276,7 @@ addon.db = {
 		214597, -- Irradiated Verdant Seed
 		214605, -- Crystallized Verdant Seed
 	},
-	["Inscription"] = {
+	["Inscription - TWW"] = {
 		222178, -- Apricate Ink
 		222179, -- Apricate Ink
 		222180, -- Apricate Ink
@@ -326,7 +326,7 @@ addon.db = {
 		222556, -- Codified Greenwood
 		222557, -- Codified Greenwood
 	},
-	["Jewelcrafting"] = {
+	["Jewelcrafting - TWW"] = {
 		213398, -- Handful of Pebbles
 		213399, -- Glittering Glass
 		213753, -- Decorative Lens
@@ -352,7 +352,7 @@ addon.db = {
 		212514, -- Blasphemite
 		215236, -- Vicious Bloodstone
 	},
-	["Leather"] = {
+	["Leather - TWW"] = {
 		-- Base Materials
 		212664, -- Stormcharged Leather
 		212665, -- Stormcharged Leather
@@ -397,14 +397,14 @@ addon.db = {
 		219902, -- Storm-Touched Weapon Wrap
 		219903, -- Storm-Touched Weapon Wrap
 	},
-	["Meta Materials"] = {
+	["Meta Materials - TWW"] = {
 		210814, -- Artisan's Acuity
 		228224, -- Spark of Legacies
 		211494, -- Spark of Beginnings
 		211296, -- Spark of Omens
 		211297, -- Fractured Spark of Omens
 	},
-	["Mining"] = {
+	["Mining - TWW"] = {
 		210930, -- Bismuth
 		210931, -- Bismuth
 		210932, -- Bismuth
@@ -419,7 +419,7 @@ addon.db = {
 		210941, -- Null Stone
 		217707, -- Imperfect Null Stone
 	},
-	["Reagents"] = {
+	["Reagents - TWW"] = {
 		212754, -- Crystalforged Cauldron
 		221756, -- Vial of Kaheti Oils
 		221763, -- Viridian Charmcap
