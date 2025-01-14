@@ -280,6 +280,11 @@ addon.db = {
 		214605, -- Crystallized Verdant Seed
 	},
 	["Inscription"] = {
+		226204, -- Fresh Parchment
+		226205, -- Distilled Algari Freshwater
+		222558, -- Boundless Cipher
+		222559, -- Boundless Cipher
+		222560, -- Boundless Cipher
 		222178, -- Apricate Ink
 		222179, -- Apricate Ink
 		222180, -- Apricate Ink
