@@ -98,6 +98,12 @@ addon.db = {
 		224832, -- Exquisite Weavercloth Bolt
 		224833, -- Exquisite Weavercloth Bolt
 		224834, -- Exquisite Weavercloth Bolt
+		224826, -- Dawnweave
+		228235, -- Dawnweave
+		228236, -- Dawnweave
+		224824, -- Duskweave
+		228233, -- Duskweave
+		228234, -- Duskweave
 		222801, -- Dawnweave Bolt
 		222802, -- Dawnweave Bolt
 		222803, -- Dawnweave Bolt
