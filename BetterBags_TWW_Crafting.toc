@@ -1,4 +1,4 @@
-## Interface: 110100
+## Interface: 110105
 
 ## Title: BetterBags - TWW Crafting
 ## Notes: Filter for common War Within Crafting items in BetterBags.
