@@ -284,6 +284,11 @@ addon.db = {
 		214595, -- Sporefused Verdant Seed
 		214597, -- Irradiated Verdant Seed
 		214605, -- Crystallized Verdant Seed
+		-- 11.2 Ghosts of K'aresh
+		239690, -- Phantom Bloom
+		239692, -- Phantom Bloom
+		239691, -- Phantom Bloom
+		240194, -- K'areshi Lotus
 	},
 	["Inscription"] = {
 		226204, -- Fresh Parchment
@@ -452,6 +457,8 @@ addon.db = {
 		211296, -- Spark of Omens
 		230905, -- Fractured Spark of Fortunes
 		230906, -- Spark of Fortunes
+		231757, -- Fractured Spark of Starlight
+		231756, -- Spark of Starlight
 	},
 	["Mining"] = {
 		210930, -- Bismuth
@@ -467,6 +474,11 @@ addon.db = {
 		210940, -- Null Stone
 		210941, -- Null Stone
 		217707, -- Imperfect Null Stone
+		-- 11.2 Ghosts of K'aresh
+		238201, -- Desolate Talus
+		238213, -- Desolate Talus
+		238212, -- Desolate Talus
+		240216, -- K'areshi Resonating Stone
 	},
 	["Reagents"] = {
 		221756, -- Vial of Kaheti Oils
@@ -482,5 +494,7 @@ addon.db = {
 		213613, -- Leyline Residue
 		213610, -- Crystalline Powder
 		213611, -- Writhing Sample
+		-- 11.2 Ghosts of K'aresh
+		249218, -- Manaforged Instrument
 	},
 }
