@@ -188,6 +188,12 @@ addon.db = {
 		222255, -- Twined Herbs
 		222539, -- Whispering Stargazer
 		222102, -- Whispering Stargazer
+		223972, -- Cracked Weavershell
+		223973, -- Sticky Gossamer Sac
+		223974, -- Jostling Ovoid
+		223975, -- Suspiciously Heavy Egg
+		223976, -- Yesterday's Eggs
+		223977, -- Coagulated Yolk
 		222738, -- Portioned Steak
 		223512, -- Basically Beef
 		225567, -- Bug Brisket
@@ -453,12 +459,39 @@ addon.db = {
 		210814, -- Artisan's Acuity
 		228224, -- Spark of Legacies
 		211494, -- Spark of Beginnings
+		-- Season 1
 		211297, -- Fractured Spark of Omens
 		211296, -- Spark of Omens
+		210232, -- Forged Aspirant's Heraldry
+		210221, -- Forged Combatant's Heraldry
+		210233, -- Forged Gladiator's Heraldry
+		220788, -- Nascent Weathered Harbinger Crest
+		220789, -- Nascent Gilded Harbinger Crest
+		220790, -- Nascent Runed Harbinger Crest
+		224069, -- Enchanted Weathered Harbinger Crest
+		224072, -- Enchanted Runed Harbinger Crest
+		224073, -- Enchanted Gilded Harbinger Crest
+		-- Season 2
 		230905, -- Fractured Spark of Fortunes
 		230906, -- Spark of Fortunes
+		229389, -- Prized Aspirant's Heraldry
+		229388, -- Prized Combatant's Heraldry
+		229390, -- Prized Gladiator's Heraldry
+		230937, -- Enchanted Weathered Undermine Crest
+		230936, -- Enchanted Runed Undermine Crest
+		230935, -- Enchanted Gilded Undermine Crest
+		230987, -- Nascent Weathered Undermine Crest
+		230986, -- Nascent Gilded Undermine Crest
+		230985, -- Nascent Runed Undermine Crest
+		-- Season 3
 		231757, -- Fractured Spark of Starlight
 		231756, -- Spark of Starlight
+		230286, -- Astral Aspirant's Heraldry
+		230285, -- Astral Combatant's Heraldry
+		230287, -- Astral Gladiator's Heraldry
+		231768, -- Enchanted Gilded Ethereal Crest
+		231769, -- Enchanted Runed Ethereal Crest
+		231767, -- Enchanted Weathered Ethereal Crest
 	},
 	["Mining"] = {
 		210930, -- Bismuth
