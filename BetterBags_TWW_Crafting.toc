@@ -1,10 +1,12 @@
-## Interface: 110107, 110200
+## Interface: 110200, 110205
 
 ## Title: BetterBags - TWW Crafting
 ## Notes: Filter for common War Within Crafting items in BetterBags.
 ## Author: Avyiel
 ## Version: @project-version@
 ## IconTexture: Interface\Icons\inv_misc_bag_05
+
+## Group: BetterBags
 ## Category-enUS: Inventory
 ## Category-deDE: Inventar
 ## Category-esES: Inventario
